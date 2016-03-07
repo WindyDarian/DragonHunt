@@ -1,23 +1,19 @@
-# Dragon Hunt by Project Avalon
+# Dragon Hunt
 
-## How to set up:
+by Windy Darian (Ruoyu Fan), Xueyin Wan and Menglu Wang
 
-1. use GitHub Desktop (https://desktop.github.com/) - or any other git tool if
-   you can handle - to clone the project to your computer.
+Course project.
 
-2. Remember to create a __new project__ with __StarterContent__ and copy its
-   Content/StarterContent__ to the __Content__ folder of this project!!!!!
+Under development.
 
-3. Then, launch the __DragonHunt.uproject__, right click any file in Content Browser
-   and click __Connect to Source Control__. If this option does not exist then
-   ignore me.
+An asymmetric 1v1 multiplayer game. The story is about an army hunting a dragon.
+So one player play as the army like playing an RTS game, while another player
+plays as a dragon like a flight simulator (or dragon simulator!).
 
-4. That's it. when you need to commit and push, preferably save all and use
-   your git tool. REMEMBER IF THERE are FILES FROM __StarterContent__ STOP
-   COMMITING AND CHECK!!!!!!! (Starter Content files should already be ignored.)
+![Dragon1](https://github.com/WindyDarian/DragonHunt/raw/master/screenshots/1.png "Dragon1")
 
-5. ignore 5 this is a test.
+![Dragon2](https://github.com/WindyDarian/DragonHunt/raw/master/screenshots/2.png "Dragon2")
 
-That's it for now!
+![Dragon3](https://github.com/WindyDarian/DragonHunt/raw/master/screenshots/3.png "Dragon3")
 
--Windy 2.17
+![](https://github.com/WindyDarian/DragonHunt/raw/master/screenshots/4.png "RTS1")
