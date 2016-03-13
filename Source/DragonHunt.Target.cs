@@ -8,7 +8,8 @@ public class DragonHuntTarget : TargetRules
 	public DragonHuntTarget(TargetInfo Target)
 	{
 		Type = TargetType.Game;
-	}
+        bUsesSteam = true;
+    }
 
 	//
 	// TargetRules interface.
